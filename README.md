@@ -6,11 +6,26 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,ts,vue,react,svelte,nextjs,sass&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,nodejs,nginx,figma,blender&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,notion,pycharm&theme=dark" />
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-f34b7d?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat&logo=svelte&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-cf649a?style=flat&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-265787?style=flat&logo=blender&logoColor=white)
 
 </div>
 
