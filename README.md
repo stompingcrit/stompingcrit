@@ -1,6 +1,6 @@
 <div align="center">
 
-# stompingcrit / ᴄᴏᴅᴇ. ᴄʀᴇᴀᴛᴇ. ᴅᴏᴍɪɴᴀᴛᴇ.
+# aezzakmi / ᴄᴏᴅᴇ. ᴄʀᴇᴀᴛᴇ. ᴅᴏᴍɪɴᴀᴛᴇ.
 
 </div>
 
