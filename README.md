@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 stompingcrit / experienced coder
+# stompingcrit / ᴄᴏᴅᴇ. ᴄʀᴇᴀᴛᴇ. ᴅᴏᴍɪɴᴀᴛᴇ.
 
 </div>
 
