@@ -1,6 +1,6 @@
 <div align="center">
 
-# aezzakmi / ᴄᴏᴅᴇ. ᴄʀᴇᴀᴛᴇ. ᴅᴏᴍɪɴᴀᴛᴇ.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=aezzakmi&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ᴄᴏᴅᴇ.+ᴄʀᴇᴀᴛᴇ.+ᴅᴏᴍɪɴᴀᴛᴇ.&descAlignY=60&descSize=20" />
 
 </div>
 
@@ -31,15 +31,11 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=stompingcrit&theme=radical&no-frame=true&no-bg=true&row=1&column=8&margin-w=10" alt="Trophies" />
 
 </div>
-
-<br/>
 
 <div align="center">
 
