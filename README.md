@@ -38,22 +38,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=stompingcrit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=ru" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stompingcrit&layout=compact&theme=radical&hide_border=true&locale=ru" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=stompingcrit&theme=radical&hide_border=true&locale=ru" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=stompingcrit&theme=radical&no-frame=true&no-bg=true&row=1&column=8&margin-w=10" alt="Trophies" />
 
 </div>
 
